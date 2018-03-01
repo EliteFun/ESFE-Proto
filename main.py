@@ -18,3 +18,8 @@ game_state = GameState()
 
 game.state_manager.pushState(game_state)
 game.gameLoop()
+
+"""
+NOTE: This is only for testing purposes,
+most of the stuff is and will be missing!!!
+"""
